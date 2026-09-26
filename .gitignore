@@ -1,0 +1,6 @@
+.artifact-build/
+references/
+~$*
+*.tmp
+Thumbs.db
+.DS_Store
